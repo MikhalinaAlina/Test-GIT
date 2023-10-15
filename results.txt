@@ -1,0 +1,46 @@
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	results.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+* main
+  new_branch
+commit 2c62d72232319bdc604ea4d7bd24ea48df7a66a2
+Author: MikhalinaAlina <144915345+MikhalinaAlina@users.noreply.github.com>
+Date:   Sun Oct 15 22:58:21 2023 +0300
+
+    Create Test-GIT.txt
+
+commit 3de72cd902c0d28c45d983505e4e89fa5eb3949e
+Merge: 038a8ad 01fde58
+Author: MikhalinaAlina <instrumentcentrvin@gmail.com>
+Date:   Sun Oct 15 22:53:37 2023 +0300
+
+    Resolved merge conflicts
+
+commit 038a8ad41d2c69fa19c66a059f755ec17aeeae83
+Author: MikhalinaAlina <instrumentcentrvin@gmail.com>
+Date:   Sun Oct 15 22:52:09 2023 +0300
+
+    new changes
+
+commit 01fde582039caa3f802c57955adc6168cac5a2d0
+Author: MikhalinaAlina <instrumentcentrvin@gmail.com>
+Date:   Sun Oct 15 22:48:39 2023 +0300
+
+    Modified my_file.txt
+
+commit f257dd59ed698609fdbcafc3fe90a9940d6fa180
+Author: MikhalinaAlina <instrumentcentrvin@gmail.com>
+Date:   Sun Oct 15 22:47:18 2023 +0300
+
+    Added emy_file.txt
+commit 3de72cd902c0d28c45d983505e4e89fa5eb3949e
+Merge: 038a8ad 01fde58
+Author: MikhalinaAlina <instrumentcentrvin@gmail.com>
+Date:   Sun Oct 15 22:53:37 2023 +0300
+
+    Resolved merge conflicts
