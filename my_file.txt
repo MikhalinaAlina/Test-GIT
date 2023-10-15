@@ -1,2 +1,3 @@
 "Welcome" 
 "New text" 
+"Hello"
